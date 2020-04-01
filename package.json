@@ -14,8 +14,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "react_start": "react-scripts start",
-    "start": "(cd backend && npm run start) & npm run react_start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
